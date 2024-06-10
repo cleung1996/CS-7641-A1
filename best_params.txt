@@ -1,0 +1,6 @@
+Rice - Neural Network Optimized Parameters: {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': 16, 'learning_rate_init': 0.01}
+Rice - SVM Optimized Parameters: {'C': 100000.0, 'kernel': 'linear'}
+Rice - KNNOptimized Parameters: {'n_neighbors': 43, 'p': 3, 'weights': 'uniform'}
+Mushroom - SVM Optimized Parameters: {'C': 1.0, 'kernel': 'rbf'}
+Mushroom - Neural Network Optimized Parameters: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': 6, 'learning_rate_init': 0.001}
+Mushroom - KNNOptimized Parameters: {'n_neighbors': 1, 'p': 1, 'weights': 'uniform'}

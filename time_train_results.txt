@@ -1,0 +1,6 @@
+Rice - Neural Network Optimization Training Time: 2398.8956677913666
+Rice - SVM Train Time: 634.8666570186615
+Rice - KNN Time taken 33.99977707862854
+Mushroom - SVM Train Time: 6988.576051950455
+Mushroom - Neural Network Optimization Training Time: 5190.475793123245
+Mushroom - Time taken 130.83173418045044

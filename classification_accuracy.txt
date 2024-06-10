@@ -1,0 +1,6 @@
+Rice - Neural Network Performance: 0.9238845144356955
+Rice - SVM Optimized Accuracy: 0.9247594050743657
+Rice - KNN - Optimized Accuracy: 0.9230096237970253
+Mushroom - SVM Optimized Accuracy: 1.0
+Mushroom - Neural Network Performance: 0.9995898277276456
+Mushroom - KNN - Optimized Accuracy: 1.0Rice - KNN - Optimized Accuracy: 0.9230096237970253
